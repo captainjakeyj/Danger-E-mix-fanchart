@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [18, 52],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-203, -90],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-22, -69],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, 186],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"offsets": [-125, -99],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": true,
+			"offsets": [-70, -66],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "angryIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-160, 15],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "angerLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-118, -15],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "angerRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-156, 238],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "angerDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-73, 290],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "angerUP",
+			"indices": []
+		},
+		{
+			"offsets": [-186, -37],
+			"loop": false,
+			"fps": 24,
+			"anim": "prepare",
+			"indices": [],
+			"name": "prepare"
+		},
+		{
+			"offsets": [107, 443],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "scream"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/story/black/danger/danger",
+	"position": [-480, 80],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [58, 27, 79],
+	"camera_position": [19, -368],
+	"sing_duration": 3.8,
+	"scale": 1.12,
+	"_editor_isPlayer": false
+}
